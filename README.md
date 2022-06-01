@@ -5,9 +5,9 @@
 **Project nickname: 송민주**  
 ***
 
-## install
+### install
 
-## Project setup
+### Project setup
 ``
 npm install
 
